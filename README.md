@@ -4,13 +4,18 @@
 ### Mapping your filter bubbles
 ### 10 (or so) bad ideas
 ### Interviews
-### Idea sheet: what is your idea called, how does it work, and what do you want people to know/feel/do?
+https://drive.google.com/file/d/1lBYKhXZkUSpng_r6xy9XaptZNFPh3VM_/view?usp=sharing
+### Idea sheet
+https://drive.google.com/file/d/10cvFBHcpqhoSeZjYKQAu--dY0mBkfBMv/view?usp=sharing
 ### Paper-prototypes
 ### Digital prototype(s)
+https://marvelapp.com/169i09gg
 ### User-testing feedback
+https://drive.google.com/file/d/1WllgM15Zm8zyrJDDPlsmzzAMNc5epv-6/view?usp=sharing
 ### Concept video
 https://spark.adobe.com/video/lZIQ7fIbW0Lkd
 ### Landing page
+https://sirenapp.carrd.co/
 ### Summative presentation
 ## Blog Posts
 
