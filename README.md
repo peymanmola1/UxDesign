@@ -2,12 +2,14 @@
 
 # Term 3
 ### Mapping your filter bubbles
-### 10 (or so) bad ideas
+### Ideas
+https://drive.google.com/file/d/1lfTqGA5CnaqUf_S3tP4pVDD9MI_55j9j/view?usp=sharing
 ### Interviews
 https://drive.google.com/file/d/1lBYKhXZkUSpng_r6xy9XaptZNFPh3VM_/view?usp=sharing
 ### Idea sheet
 https://drive.google.com/file/d/10cvFBHcpqhoSeZjYKQAu--dY0mBkfBMv/view?usp=sharing
 ### Paper-prototypes
+https://drive.google.com/drive/folders/1jOKN47dRABtjAtsX1bMMruTXmeQuATfL?usp=sharing
 ### Digital prototype(s)
 https://marvelapp.com/169i09gg
 ### User-testing feedback
@@ -21,23 +23,15 @@ https://sirenapp.carrd.co/
 
 https://medium.com/@peymanmola/data-selfies-43beb990b078
 
-
-
 https://medium.com/@peymanmola/facebooks-filter-bubbles-9c93ed9735ca
-
-
 
 https://medium.com/@peymanmola/creating-surveys-3a6fb57e718
 
-
 https://medium.com/@peymanmola/an-inspiring-project-df4335da4273
-
 
 https://medium.com/@peymanmola/formative-feedback-review-a3be74f54a5
 
-
 https://medium.com/@peymanmola/landing-page-8b4eb638a6f8
-
 
 https://medium.com/@peymanmola/action-plan-2e568d8ee1a9
 
