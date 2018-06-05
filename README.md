@@ -2,6 +2,7 @@
 
 # Term 3
 ### Mapping your filter bubbles
+https://drive.google.com/file/d/17ucgX4eqnt2RfTzz7mJHdMJt6_8mHmX-/view?usp=sharing
 ### Ideas
 https://drive.google.com/file/d/1lfTqGA5CnaqUf_S3tP4pVDD9MI_55j9j/view?usp=sharing
 ### Interviews
@@ -18,7 +19,13 @@ https://drive.google.com/file/d/1WllgM15Zm8zyrJDDPlsmzzAMNc5epv-6/view?usp=shari
 https://spark.adobe.com/video/lZIQ7fIbW0Lkd
 ### Landing page
 https://sirenapp.carrd.co/
-### Summative presentation
+### Concept one pager
+https://drive.google.com/file/d/1b_NhDOQfExnMy0feRHy7koybDb2JWCWc/view?usp=sharing
+### Presentations
+#### Formative presentation
+https://drive.google.com/file/d/1aOyVq4bnjDMKopqS-aLJIWU-cMBvLPig/view?usp=sharing
+#### Summative presentation
+https://drive.google.com/file/d/1vkz5UupB7L1JvtSD8023EXVCd3_cDmg1/view?usp=sharing
 ## Blog Posts
 
 https://medium.com/@peymanmola/data-selfies-43beb990b078
